@@ -1,2 +1,2 @@
 # learn-github
-first git repository
+my git repository
